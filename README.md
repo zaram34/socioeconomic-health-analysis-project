@@ -30,7 +30,7 @@ Data was cleaned, merged, and structured for analysis.
 ![GDP vs Life Expectancy](visualizations/gdp_vs_life_expectancy.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](visualizations/correlation_heatmap.png)
+![Correlation Heatmap](visualizations/correlation_socioeconomic_indicators.png)
 
 ## Key Insights
 
