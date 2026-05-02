@@ -24,7 +24,7 @@ Data was cleaned, merged, and structured for analysis.
 ## Key Visualizations
 
 ### Life Expectancy Over Time
-![Life Expectancy](visualizations/life_expectancy_trend.png)
+![Life Expectancy Over Time](visualisations/life_expectancy_trend.png)
 
 ### GDP vs Life Expectancy
 ![GDP vs Life Expectancy](visualizations/gdp_vs_life_expectancy.png)
