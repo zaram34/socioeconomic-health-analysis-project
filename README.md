@@ -27,7 +27,7 @@ Data was cleaned, merged, and structured for analysis.
 ![Life Expectancy Over Time](visualisations/life_expectancy_trend.png)
 
 ### GDP vs Life Expectancy
-![GDP vs Life Expectancy](visualizations/gdp_vs_life_expectancy.png)
+![GDP vs Life Expectancy](visualisations/gdp_vs_life_expectancy.png)
 
 ### Correlation Heatmap
 ![Correlation Heatmap](visualizations/correlation_socioeconomic_indicators.png)
